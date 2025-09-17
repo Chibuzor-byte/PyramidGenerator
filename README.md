@@ -87,9 +87,3 @@ console.log(result);
 - Initialize empty string to accumulate the full output.
 - Iterate over each stored row and append it plus a newline to result. `(You could also do rows.join("\n") + "\n".)`
 - Print the final multi-line pyramid to the console.
-
-
-
-
-
-- 
